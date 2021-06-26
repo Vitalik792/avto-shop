@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Avto-Shop</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+   
+    <style>
+    a{
+    color:#fff;
+    text-decoration: none;
+  
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:#689CD2;;
+    color: #fff;
+    
+}
+.header_section{
+    display: flex;
+    align-items: center;
+    
+}
+.header_item{
+    padding: 10px 15px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+    
+.img{
+    width: 1855px;
+    height: 800px;
+}
+.btn-group{
+    background-color: #689CD2;
+    
+}
+    
+    </style>
+</head>
+<body class="body">
+
+  <div class="header">
+      <div class="header_section">
+          <div class="header_item headerlogo">
+             Auto-Shop 
+          </div>
+          <div class="header_item headerButton"><a href="%D1%81%D1%82%D0%BE.html">СТО</a></div>
+          <div class="header_item headerButton"><a href="#">Про нас</a></div>
+          <div class="header_item headerButton"><a href="#">Автомобільнестрахування</a></div>
+          <div class="header_item headerButton"><a href="№">Оплата</a></div>
+          <div class="header_item headerButton"><a href="#"Контакти></a></div>
+      </div>
+      <div class="header_section">
+          <div class="header_item headerButton"><a href="#">Вхід</a></div>
+          <div class="header_item headerButton"><a href="#">Реєстрація</a></div>
+          <div class="header_item headerButton"><a href="#">+380678655812</a></div>
+      </div>
+  </div>
+       
+<figure class="figure">
+  <img src="%D0%B7%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.png" class="figure-img img-fluid rounded" alt="...">
+  <figcaption class="figure-caption"></figcaption>
+</figure>
+  
+   <div class="btn-group" role="group" aria-label="Basic checkbox toggle button group">
+  <input type="checkbox" class="btn-check" id="btncheck1" autocomplete="off">
+  <label class="btn btn-outline-Light" for="btncheck1">Запчастини для ТО</label>
+
+ 
+  <label class="btn btn-outline-Light" for="btncheck2">Тормозна система</label>
+
+  <input type="checkbox" class="btn-check" id="btncheck3" autocomplete="off">
+  <label class="btn btn-outline-Light" for="btncheck3">Підвіска і рульова</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Коробка передач</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Мотор </label>
+  <label class="btn btn-outline-Light" for="btncheck3">Паливна систеиа</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Вихлопна система</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Електрика і світло</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Охолодженя</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Худова</label>
+  <label class="btn btn-outline-Light" for="btncheck3">Решту...</label>
+</div>
+
+<img class="img" src="%D1%84%D0%BE%D1%82%D0%BE.png2.png" alt="">
+  <h1 class="tp">Інтернет магазин Autoshop: автозапчастини за вигідною ціною</h1>
+  <p>Інтернет магазин Autoshop запрошує оптових і роздрібних покупців ознайомитися з великою каталожної базою: швидко підібрати і купити за вигідними цінами в Україні запчастини для ремонтного обслуговування автомобілів різних марок, моделей і років випуску.
+
+Представлені оригінальні автозапчастини та аналоги мають гарантовано високу якість: відмінний рівень важливих експлуатаційних характеристик підтверджений наявністю сертифікатів міжнародного класу. Додатковий захист споживачів - гарантія повернення (обміну) згідно з чинним законодавством України.Каталог пропозицій скомпонований і постійно поповнюється з урахуванням комплексної аналітики потреб українських автомобілістів в надійних автозапчастини, а також сучасного ринку пропозицій. В асортименті представлені оригінальні деталі та аналоги як для ремонту популярних в країні європейських, азіатських і американських моделей, так і відмінні варіанти для обслуговування рідкісних авто (легко можна купити традиційно дефіцитні позиції).Досвід роботи дозволив детально вивчити особливості кожного виробника і компанії-пакувальника: від стабільності забезпечення необхідного рівня якості до цінової політики. У підсумку в каталог жорстко закрита дорога недобросовісним фірмам (ризик покупки низького сорту і, тим більше підробки, зведений до нуля). Усі постачальники - мають хорошу репутацію на ринку компанії, з якими (безпосередньо або через офіційних представників в Україні) налагоджені довгострокові партнерські зв'язки.
+
+Прямі поставки від виробників дозволили:</p>
+  <li>максимально розширити асортимент оригіналів і аналогів;</li>
+  <li>забезпечити граничну швидкість доставки навіть найбільш дефіцитних позицій;</li>
+  <li>гарантувати рівень якості відповідно до нормативних вимог найбільш жорстких міжнародних стандартів;</li>
+  <li>сформувати найбільш привабливі для оптових і роздрібних покупців ціни: без зайвих націнок посередників і з постійно практикуються знижками на ті чи інші групи автозапчастин.</li>
+  <h1>Простота і зручність підбору запчастин</h1>
+  <p>Електронний каталог інтернет магазину Autoshop надзвичайно зручний для простого і безпомилкового самостійного підбору оригінальних запчастин і аналогів. Всі товари скомпоновані по групах за призначенням: для обслуговування двигуна, ходової частини, гальмівної системи і т.д.
+
+Передбачається можливість пошуку по ряду ключових параметрів авто: найменуванню марки і моделі, року випуску, типу силового агрегату і т.п., а також - за унікальним номером оригінальної автозапчастини. Усі позиції супроводжуються докладними інформативними описами, із зазначенням важливих технічних характеристик і ціни, що дозволяє порівняти варіанти і купити оптимально відповідні деталі або аксесуари.При необходимости с подбором помогут квалифицированные онлайн консультанты, которые (по VIN коду машины или по другим параметрам) быстро предложат купить интересный по сочетанию цены и характеристик вариант с учетом возможных предпочтений клиента, помогут с оформлением заказа, ответят на любые возникшие вопросы и выслушают пожелания и замечания, направленные на дальнейшее совершенствование работы.</p>
+  
+  
+   
+</body>
+</html>
